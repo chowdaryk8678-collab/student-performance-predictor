@@ -1,0 +1,10 @@
+{
+  "hours_studied": 3.0,
+  "attendance_rate": 0.95,
+  "assignments_completed": 12,
+  "past_grade": 82.0,
+  "social_activity_hours": 2.0,
+  "sleep_hours": 7.5,
+  "school_type": "public",
+  "parent_education": "bachelors"
+}
